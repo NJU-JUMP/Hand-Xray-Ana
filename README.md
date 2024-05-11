@@ -26,13 +26,13 @@ pip install -r requirements.txt
 
 python run_segmentation.py
 
-@article{YourResearch2024,
-  title={Deep Learning-based Segmentation and Feature Extraction of Hand X-ray Images},
-  author={Your Name et al.},
-  journal={Journal of Medical Imaging},
+@article{,
+  title={Automated morphometric segmentation analysis of Hand X-ray image using deep learning netwo},
+  author={Yiyang Zhang et al},
+  journal={TBD},
   year={2024},
-  volume={31},
-  number={2},
-  pages={123-134},
+  volume={},
+  number={},
+  pages={},
   doi={xx.xxxx/jmi.123456}
 }
